@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Entity on GABE STEIN</title>
-    <link>https://gabe-stein.github.io/tags/entity/</link>
+    <link>https://gabejstein.github.io/tags/entity/</link>
     <description>Recent content in Entity on GABE STEIN</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gabe-stein.github.io/tags/entity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gabejstein.github.io/tags/entity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Game Objects and Inheritance in Lua</title>
-      <link>https://gabe-stein.github.io/tutorial/love2d-inheritance/</link>
+      <link>https://gabejstein.github.io/tutorial/love2d-inheritance/</link>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://gabe-stein.github.io/tutorial/love2d-inheritance/</guid>
+      <guid>https://gabejstein.github.io/tutorial/love2d-inheritance/</guid>
       <description>&lt;p&gt;Some people think that inheritance is impossible in Lua. It&amp;rsquo;s not a built-in feature of the language like in C++ or Java, but there&amp;rsquo;s still a way to fake it with meta-tables. This video shows one way to do it and how it can allow you to create a variety of game objects without having to rewrite a lot of code.&lt;/p&gt;&#xA;&lt;p&gt;This video was originally published on October 30, 2024.&lt;/p&gt;</description>
     </item>
   </channel>
