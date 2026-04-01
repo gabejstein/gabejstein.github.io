@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on GABE STEIN</title>
+    <link>https://gabe-stein.github.io/tags/</link>
+    <description>Recent content in Tags on GABE STEIN</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gabe-stein.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Car</title>
+      <link>https://gabe-stein.github.io/tags/car/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://gabe-stein.github.io/tags/car/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Entity</title>
+      <link>https://gabe-stein.github.io/tags/entity/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://gabe-stein.github.io/tags/entity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Game Object</title>
+      <link>https://gabe-stein.github.io/tags/game-object/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://gabe-stein.github.io/tags/game-object/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inheritance</title>
+      <link>https://gabe-stein.github.io/tags/inheritance/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://gabe-stein.github.io/tags/inheritance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Love2d</title>
+      <link>https://gabe-stein.github.io/tags/love2d/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://gabe-stein.github.io/tags/love2d/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lua</title>
+      <link>https://gabe-stein.github.io/tags/lua/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://gabe-stein.github.io/tags/lua/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Physics</title>
+      <link>https://gabe-stein.github.io/tags/physics/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://gabe-stein.github.io/tags/physics/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
