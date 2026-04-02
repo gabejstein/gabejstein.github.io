@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on GABE STEIN</title>
-    <link>https://gabejstein.github.io/page/</link>
+    <link>http://localhost:1313/page/</link>
     <description>Recent content in Pages on GABE STEIN</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gabejstein.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Gabe</title>
-      <link>https://gabejstein.github.io/page/about/</link>
+      <link>http://localhost:1313/page/about/</link>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://gabejstein.github.io/page/about/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://gabejstein.github.io/images/gabe_icecream.jpg&#34; alt=&#34;Gabe Stein&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Gabe is the founder of Studio Boshi and the &lt;a href=&#34;https://www.youtube.com/@GabeStein&#34;&gt;Gabe Stein Youtube Channel&lt;/a&gt;, where he teaches game programming concepts and related things. Most of his games are made without engines and he likes to code at a low level using languages like C. He&amp;rsquo;s also been a big proponent of Lua.&lt;/p&gt;&#xA;&lt;p&gt;He lived in Kawasaki, Japan for 9 years before moving back to his hometown of Toronto, Canada. He&amp;rsquo;s currently developing &lt;a href=&#34;https://store.steampowered.com/app/3605940/Ocean_City_Killer/?beta=0&#34;&gt;Ocean City Killer&lt;/a&gt;, a retro cyberpunk adventure. He enjoys cycling, photography, and model making.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/page/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/gabe_icecream.jpg&#34; alt=&#34;Gabe Stein&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Gabe is the founder of &lt;strong&gt;Studio Boshi&lt;/strong&gt; and the &lt;a href=&#34;https://www.youtube.com/@GabeStein&#34;&gt;Gabe Stein Youtube Channel&lt;/a&gt;, where he teaches game programming concepts and related things. Most of his games are made without engines and he likes to code at a low level using languages like C. He&amp;rsquo;s also been a big proponent of Lua.&lt;/p&gt;&#xA;&lt;p&gt;He lived in Kawasaki, Japan for 9 years before moving back to his hometown of Toronto, Canada. He&amp;rsquo;s currently developing &lt;a href=&#34;https://store.steampowered.com/app/3605940/Ocean_City_Killer/?beta=0&#34;&gt;Ocean City Killer&lt;/a&gt;, a retro cyberpunk adventure. He enjoys cycling, photography, and model making.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

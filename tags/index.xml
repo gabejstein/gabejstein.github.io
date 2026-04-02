@@ -2,115 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on GABE STEIN</title>
-    <link>https://gabejstein.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on GABE STEIN</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gabejstein.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Install</title>
-      <link>https://gabejstein.github.io/tags/install/</link>
+      <link>http://localhost:1313/tags/install/</link>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://gabejstein.github.io/tags/install/</guid>
+      <guid>http://localhost:1313/tags/install/</guid>
       <description></description>
     </item>
     <item>
       <title>Love2d</title>
-      <link>https://gabejstein.github.io/tags/love2d/</link>
+      <link>http://localhost:1313/tags/love2d/</link>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://gabejstein.github.io/tags/love2d/</guid>
+      <guid>http://localhost:1313/tags/love2d/</guid>
       <description></description>
     </item>
     <item>
       <title>Lua</title>
-      <link>https://gabejstein.github.io/tags/lua/</link>
+      <link>http://localhost:1313/tags/lua/</link>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://gabejstein.github.io/tags/lua/</guid>
+      <guid>http://localhost:1313/tags/lua/</guid>
       <description></description>
     </item>
     <item>
       <title>Pixel Art</title>
-      <link>https://gabejstein.github.io/tags/pixel-art/</link>
+      <link>http://localhost:1313/tags/pixel-art/</link>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://gabejstein.github.io/tags/pixel-art/</guid>
+      <guid>http://localhost:1313/tags/pixel-art/</guid>
       <description></description>
     </item>
     <item>
       <title>Push</title>
-      <link>https://gabejstein.github.io/tags/push/</link>
+      <link>http://localhost:1313/tags/push/</link>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://gabejstein.github.io/tags/push/</guid>
+      <guid>http://localhost:1313/tags/push/</guid>
       <description></description>
     </item>
     <item>
       <title>Screen Size</title>
-      <link>https://gabejstein.github.io/tags/screen-size/</link>
+      <link>http://localhost:1313/tags/screen-size/</link>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://gabejstein.github.io/tags/screen-size/</guid>
+      <guid>http://localhost:1313/tags/screen-size/</guid>
       <description></description>
     </item>
     <item>
       <title>Setup</title>
-      <link>https://gabejstein.github.io/tags/setup/</link>
+      <link>http://localhost:1313/tags/setup/</link>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://gabejstein.github.io/tags/setup/</guid>
+      <guid>http://localhost:1313/tags/setup/</guid>
       <description></description>
     </item>
     <item>
       <title>Tutorial</title>
-      <link>https://gabejstein.github.io/tags/tutorial/</link>
+      <link>http://localhost:1313/tags/tutorial/</link>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://gabejstein.github.io/tags/tutorial/</guid>
+      <guid>http://localhost:1313/tags/tutorial/</guid>
       <description></description>
     </item>
     <item>
       <title>Visual Studio Code</title>
-      <link>https://gabejstein.github.io/tags/visual-studio-code/</link>
+      <link>http://localhost:1313/tags/visual-studio-code/</link>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://gabejstein.github.io/tags/visual-studio-code/</guid>
+      <guid>http://localhost:1313/tags/visual-studio-code/</guid>
       <description></description>
     </item>
     <item>
       <title>Windows</title>
-      <link>https://gabejstein.github.io/tags/windows/</link>
+      <link>http://localhost:1313/tags/windows/</link>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://gabejstein.github.io/tags/windows/</guid>
+      <guid>http://localhost:1313/tags/windows/</guid>
       <description></description>
     </item>
     <item>
       <title>Car</title>
-      <link>https://gabejstein.github.io/tags/car/</link>
+      <link>http://localhost:1313/tags/car/</link>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://gabejstein.github.io/tags/car/</guid>
+      <guid>http://localhost:1313/tags/car/</guid>
       <description></description>
     </item>
     <item>
       <title>Entity</title>
-      <link>https://gabejstein.github.io/tags/entity/</link>
+      <link>http://localhost:1313/tags/entity/</link>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://gabejstein.github.io/tags/entity/</guid>
+      <guid>http://localhost:1313/tags/entity/</guid>
       <description></description>
     </item>
     <item>
       <title>Game Object</title>
-      <link>https://gabejstein.github.io/tags/game-object/</link>
+      <link>http://localhost:1313/tags/game-object/</link>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://gabejstein.github.io/tags/game-object/</guid>
+      <guid>http://localhost:1313/tags/game-object/</guid>
       <description></description>
     </item>
     <item>
       <title>Inheritance</title>
-      <link>https://gabejstein.github.io/tags/inheritance/</link>
+      <link>http://localhost:1313/tags/inheritance/</link>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://gabejstein.github.io/tags/inheritance/</guid>
+      <guid>http://localhost:1313/tags/inheritance/</guid>
       <description></description>
     </item>
     <item>
       <title>Physics</title>
-      <link>https://gabejstein.github.io/tags/physics/</link>
+      <link>http://localhost:1313/tags/physics/</link>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://gabejstein.github.io/tags/physics/</guid>
+      <guid>http://localhost:1313/tags/physics/</guid>
       <description></description>
     </item>
   </channel>
