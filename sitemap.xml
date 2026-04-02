@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gabejstein.github.io/</loc>
+    <lastmod>2026-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gabejstein.github.io/tags/install/</loc>
+    <lastmod>2026-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gabejstein.github.io/tags/love2d/</loc>
+    <lastmod>2026-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gabejstein.github.io/tags/lua/</loc>
+    <lastmod>2026-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gabejstein.github.io/tags/pixel-art/</loc>
+    <lastmod>2026-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gabejstein.github.io/tags/push/</loc>
+    <lastmod>2026-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gabejstein.github.io/tags/screen-size/</loc>
+    <lastmod>2026-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gabejstein.github.io/tags/setup/</loc>
+    <lastmod>2026-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gabejstein.github.io/tutorial/love2d-vs-code-setup/</loc>
+    <lastmod>2026-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gabejstein.github.io/tags/</loc>
+    <lastmod>2026-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gabejstein.github.io/tags/tutorial/</loc>
+    <lastmod>2026-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gabejstein.github.io/tutorial/</loc>
+    <lastmod>2026-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gabejstein.github.io/tutorial/love2d-push-library/</loc>
+    <lastmod>2026-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gabejstein.github.io/tags/visual-studio-code/</loc>
+    <lastmod>2026-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gabejstein.github.io/tags/windows/</loc>
+    <lastmod>2026-04-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://gabejstein.github.io/page/about/</loc>
     <lastmod>2026-03-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,9 +54,6 @@
     <lastmod>2026-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gabejstein.github.io/tags/entity/</loc>
-    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gabejstein.github.io/</loc>
     <lastmod>2026-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gabejstein.github.io/tags/game-object/</loc>
@@ -23,28 +65,16 @@
     <loc>https://gabejstein.github.io/tags/inheritance/</loc>
     <lastmod>2026-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gabejstein.github.io/tags/love2d/</loc>
-    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://gabejstein.github.io/tutorial/love2d-physics/</loc>
     <lastmod>2026-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gabejstein.github.io/tutorial/love2d-physics-car/</loc>
     <lastmod>2026-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gabejstein.github.io/tags/lua/</loc>
-    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://gabejstein.github.io/page/</loc>
     <lastmod>2026-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gabejstein.github.io/tags/physics/</loc>
-    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gabejstein.github.io/tags/</loc>
-    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gabejstein.github.io/tutorial/</loc>
     <lastmod>2026-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gabejstein.github.io/categories/</loc>
