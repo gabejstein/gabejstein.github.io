@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Push on GABE STEIN</title>
-    <link>http://localhost:1313/tags/push/</link>
+    <link>https://gabejstein.github.io/tags/push/</link>
     <description>Recent content in Push on GABE STEIN</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/push/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gabejstein.github.io/tags/push/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using The Push Library With Love2D</title>
-      <link>http://localhost:1313/tutorial/love2d-push-library/</link>
+      <link>https://gabejstein.github.io/tutorial/love2d-push-library/</link>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tutorial/love2d-push-library/</guid>
+      <guid>https://gabejstein.github.io/tutorial/love2d-push-library/</guid>
       <description>&lt;p&gt;There&amp;rsquo;s a good chance that you&amp;rsquo;ll make a game and won&amp;rsquo;t even know what screen size your player will have. This can make it difficult to design things like user interfaces, sprite sizes, etc. There are many ways to deal with this problem, but I think the simplest thing is to draw to a render texture at a fixed size and have that scale automatically to fit any screen.&lt;/p&gt;&#xA;&lt;p&gt;I think the Push library is great for handling that, and it&amp;rsquo;s excellent for making games with pixel art as well. The video below is quick guide to setting it up.&lt;/p&gt;</description>
     </item>
   </channel>
