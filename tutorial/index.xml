@@ -6,8 +6,15 @@
     <description>Recent content in Tutorials on GABE STEIN</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gabejstein.github.io/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating a 9-Slice Panel from Scratch</title>
+      <link>https://gabejstein.github.io/tutorial/love2d-ui-panel/</link>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://gabejstein.github.io/tutorial/love2d-ui-panel/</guid>
+      <description>&lt;p&gt;The following video tutorial shows you how to create a 9-Slice panel from scratch. I&amp;rsquo;ll be using Lua and Love2D, but the same technique could be applied to just about any language or framework.&lt;/p&gt;&#xA;&lt;p&gt;For those of you who don&amp;rsquo;t like using existing libraries or just simply want to know how it&amp;rsquo;s done, this should be useful. It&amp;rsquo;s also good to know how these things are made because it&amp;rsquo;s the basis of creating a lot of other UI elements. Sometimes a hand-made solution works better than something in a library or framework.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Setup Guide For Love2D And Visual Studio Code (Windows)</title>
       <link>https://gabejstein.github.io/tutorial/love2d-vs-code-setup/</link>
