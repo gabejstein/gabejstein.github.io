@@ -15,12 +15,5 @@
       <guid>https://gabejstein.github.io/arcade/silly-balls-and-bricks/</guid>
       <description>&lt;h2 id=&#34;how-to-play&#34;&gt;How to Play&lt;/h2&gt;&#xA;&lt;p&gt;Press space to launch the ball. Move the arrow keys left and right to move the paddle. The aim is to destroy all the bricks without letting the ball fall into the pit. Note: This game is a work-in-progress and I&amp;rsquo;m still testing out ways to embed Javascript into this site.&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>Blackjack</title>
-      <link>https://gabejstein.github.io/arcade/blackjack/</link>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://gabejstein.github.io/arcade/blackjack/</guid>
-      <description>&lt;p&gt;Testing!&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>

@@ -11,6 +11,9 @@
     <loc>https://gabejstein.github.io/tags/breakout/</loc>
     <lastmod>2026-05-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://gabejstein.github.io/tags/bricks/</loc>
+    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://gabejstein.github.io/tags/browser-game/</loc>
     <lastmod>2026-05-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -20,10 +23,7 @@
     <loc>https://gabejstein.github.io/tags/game/</loc>
     <lastmod>2026-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gabejstein.github.io/tags/love2d/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gabejstein.github.io/tags/lua/</loc>
+    <loc>https://gabejstein.github.io/tags/javascript/</loc>
     <lastmod>2026-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gabejstein.github.io/arcade/silly-balls-and-bricks/</loc>
@@ -36,6 +36,12 @@
     <lastmod>2026-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gabejstein.github.io/tutorial/love2d-ui-panel/</loc>
+    <lastmod>2026-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gabejstein.github.io/tags/love2d/</loc>
+    <lastmod>2026-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gabejstein.github.io/tags/lua/</loc>
     <lastmod>2026-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gabejstein.github.io/tags/panel/</loc>
@@ -55,12 +61,6 @@
   </url><url>
     <loc>https://gabejstein.github.io/tags/ui/</loc>
     <lastmod>2026-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gabejstein.github.io/arcade/blackjack/</loc>
-    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gabejstein.github.io/tags/blackjack/</loc>
-    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gabejstein.github.io/tags/install/</loc>
     <lastmod>2026-04-02T00:00:00+00:00</lastmod>
