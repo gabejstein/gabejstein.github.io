@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Breakout on GABE STEIN</title>
+    <link>https://gabejstein.github.io/tags/breakout/</link>
+    <description>Recent content in Breakout on GABE STEIN</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gabejstein.github.io/tags/breakout/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Silly Balls and Bricks</title>
+      <link>https://gabejstein.github.io/arcade/silly-balls-and-bricks/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://gabejstein.github.io/arcade/silly-balls-and-bricks/</guid>
+      <description>&lt;h2 id=&#34;how-to-play&#34;&gt;How to Play&lt;/h2&gt;&#xA;&lt;p&gt;Press space to launch the ball. Move the arrow keys left and right to move the paddle. The aim is to destroy all the bricks without letting the ball fall into the pit. Note: This game is a work-in-progress and I&amp;rsquo;m still testing out ways to embed Javascript into this site.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
